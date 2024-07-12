@@ -1,0 +1,12 @@
+C:\Users\matei\Desktop\Blockchain\account\account.cpp;C:\Users\matei\Desktop\Blockchain\Blockchain\x64\Debug\account.obj
+C:\Users\matei\Desktop\Blockchain\block\block.cpp;C:\Users\matei\Desktop\Blockchain\Blockchain\x64\Debug\block.obj
+C:\Users\matei\Desktop\Blockchain\constants.cpp;C:\Users\matei\Desktop\Blockchain\Blockchain\x64\Debug\constants.obj
+C:\Users\matei\Desktop\Blockchain\keccak256\keccak256.cpp;C:\Users\matei\Desktop\Blockchain\Blockchain\x64\Debug\keccak256.obj
+C:\Users\matei\Desktop\Blockchain\main.cpp;C:\Users\matei\Desktop\Blockchain\Blockchain\x64\Debug\main.obj
+C:\Users\matei\Desktop\Blockchain\miner\miner.cpp;C:\Users\matei\Desktop\Blockchain\Blockchain\x64\Debug\miner.obj
+C:\Users\matei\Desktop\Blockchain\revert\revert.cpp;C:\Users\matei\Desktop\Blockchain\Blockchain\x64\Debug\revert.obj
+C:\Users\matei\Desktop\Blockchain\safemath\safemath.cpp;C:\Users\matei\Desktop\Blockchain\Blockchain\x64\Debug\safemath.obj
+C:\Users\matei\Desktop\Blockchain\thread\thread.cpp;C:\Users\matei\Desktop\Blockchain\Blockchain\x64\Debug\thread.obj
+C:\Users\matei\Desktop\Blockchain\thread\threadfns.cpp;C:\Users\matei\Desktop\Blockchain\Blockchain\x64\Debug\threadfns.obj
+C:\Users\matei\Desktop\Blockchain\transaction\transaction.cpp;C:\Users\matei\Desktop\Blockchain\Blockchain\x64\Debug\transaction.obj
+C:\Users\matei\Desktop\Blockchain\utils\utils.cpp;C:\Users\matei\Desktop\Blockchain\Blockchain\x64\Debug\utils.obj
