@@ -15,3 +15,6 @@
 
 # Almost complete
  The only thing this project is missing is a HTTP server that should process GET/POST requests for submitting transactions, mining blocks, getting data from the blockchain etc. I recommend BOOST.ASIO for this task!
+
+# Note
+ You need to have a "blocks" folder and the "config.json" file where the .exe is located!
