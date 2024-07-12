@@ -1,0 +1,17 @@
+{
+  "decimals": 4,
+  "block_time": 2,
+  "total_supply": 100000000000,
+  "name":  "Blockchain",
+  "symbol": "BLK",
+  "accounts": [
+    {
+      "key": "Jane",
+      "amount": 10000000
+    },
+    {
+      "key": "Alex",
+      "amount": 10000000
+    }
+  ]
+}

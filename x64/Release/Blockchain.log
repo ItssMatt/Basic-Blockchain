@@ -1,0 +1,17 @@
+﻿  account.cpp
+  block.cpp
+  constants.cpp
+  keccak256.cpp
+  main.cpp
+  miner.cpp
+  revert.cpp
+  safemath.cpp
+  thread.cpp
+  threadfns.cpp
+  transaction.cpp
+  utils.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2446 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Blockchain.vcxproj -> C:\Users\matei\Desktop\Blockchain\x64\Release\Blockchain.exe
